@@ -7,3 +7,6 @@ npm-debug.log
 /blob-report/
 /playwright/.cache/
 .auth/
+
+# Playwright
+/playwright/.auth/
